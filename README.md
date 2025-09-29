@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17226415.svg)](https://doi.org/10.5281/zenodo.17226415) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # IDL_RHEF
 An IDL implementation of the Radial Histogram Equalizing Filter (RHEF)
 
